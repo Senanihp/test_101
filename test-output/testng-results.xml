@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-22T11:39:34 IST" name="Default suite" finished-at="2024-07-22T11:39:56 IST" duration-ms="21747">
+    <groups>
+    </groups>
+    <test started-at="2024-07-22T11:39:34 IST" name="Default test" finished-at="2024-07-22T11:39:56 IST" duration-ms="21747">
+      <class name="QA_DEMO_Practise.Alerts_Frame_windows">
+        <test-method signature="Switch_window()[pri:1, instance:QA_DEMO_Practise.Alerts_Frame_windows@3f6f6701]" started-at="2024-07-22T11:39:34 IST" name="Switch_window" finished-at="2024-07-22T11:39:36 IST" duration-ms="1698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Switch_window -->
+        <test-method signature="Swith_tab()[pri:2, instance:QA_DEMO_Practise.Alerts_Frame_windows@3f6f6701]" started-at="2024-07-22T11:39:36 IST" name="Swith_tab" finished-at="2024-07-22T11:39:56 IST" duration-ms="20018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Swith_tab -->
+      </class> <!-- QA_DEMO_Practise.Alerts_Frame_windows -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

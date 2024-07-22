@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test" parallel="true">
+    <classes>
+      <class name="QA_DEMO_Practise.Switch_window"/>
+      <class name="QA_DEMO_Practise.Upload_and_download"/>
+      <!-- <class name="QA_DEMO_Practise.Alerts_Frame_windows"/>
+      <class name="QA_DEMO_Practise.Button_clcik"/>
+      <class name="QA_DEMO_Practise.Form_Automation"/>
+      <class name="QA_DEMO_Practise.Dynamic_properties"/> --> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
